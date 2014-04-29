@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/item_wireless" android:title="Wireless" android:icon="@drawable/ic_mic_able"/>
+    <item android:id="@+id/item_bluetooth" android:title="Bluetooth" android:icon="@drawable/ic_play_able" />
+    <item android:id="@+id/item_nfc" android:title="NFC" />
+    <item android:id="@+id/item_cellular" android:title="Cellular" />
+ 
+    
+
+</menu>

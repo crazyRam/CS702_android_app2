@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Team2 Super Secure</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_pwd">Password</string>
+    <string name="label_confirm">Confirm Password</string>
+    <string name="label_signin">Sign in</string>
+    <string name="recording">Recording</string>
+    <string name="record">Record and Send</string>
+    <string name="recordlist">Go to Record List</string>
+    <string name="receivedlist">Go to Received List</string>
+</resources>
